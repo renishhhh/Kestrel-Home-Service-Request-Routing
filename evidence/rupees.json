@@ -1,0 +1,49 @@
+{
+ "transfers_per_misrouted": 1.44,
+ "cost_per_misroute": 698,
+ "bot_misroute_rate": 0.233,
+ "model_misroute_rate": 0.161,
+ "monthly_volume": 721,
+ "bot_monthly_misroute_cost": 117474,
+ "model_monthly_misroute_cost": 81146,
+ "monthly_saving_from_fewer_misroutes": 36327,
+ "licence_monthly": 26667,
+ "total_monthly_benefit_before_hosting": 62994,
+ "bot_accuracy_by_queue": {
+  "Billing": 0.647,
+  "Consumables": 0.598,
+  "Installations": 0.967,
+  "Product Advice": 0.962,
+  "Repairs": 0.637,
+  "Returns & Replacement": 0.964,
+  "Warranty Claims": 0.963
+ },
+ "bot_queue_share": {
+  "Repairs": 0.289,
+  "Billing": 0.153,
+  "Consumables": 0.135,
+  "Installations": 0.109,
+  "Product Advice": 0.109,
+  "Returns & Replacement": 0.108,
+  "Warranty Claims": 0.096
+ },
+ "actual_workload_share_final_team": {
+  "Repairs": 0.234,
+  "Installations": 0.147,
+  "Returns & Replacement": 0.142,
+  "Product Advice": 0.128,
+  "Warranty Claims": 0.127,
+  "Billing": 0.122,
+  "Consumables": 0.099
+ },
+ "billing_queue_really_billing": 0.647,
+ "billing_queue_ends_up": {
+  "Billing": 0.647,
+  "Repairs": 0.116,
+  "Installations": 0.088,
+  "Returns & Replacement": 0.075,
+  "Warranty Claims": 0.064,
+  "Consumables": 0.005,
+  "Product Advice": 0.004
+ }
+}

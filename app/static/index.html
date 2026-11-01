@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kestrel request router</title>
+
+  <style>
+    :root {
+      --background: #ffffff;
+      --text: #1c1c1c;
+      --text-muted: #666666;
+      --border: #d8d8d8;
+      --accent: #1a56db;
+      --good: #0a7d3b;      /* route */
+      --warning: #a15c00;   /* route, then check */
+      --bad: #b42318;       /* ask the customer first */
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --background: #161616;
+        --text: #eeeeee;
+        --text-muted: #aaaaaa;
+        --border: #3a3a3a;
+        --accent: #6ea0ff;
+        --good: #4ade80;
+        --warning: #fbbf24;
+        --bad: #f87171;
+      }
+    }
+
+    /* ---------- Page layout ---------- */
+    body {
+      font: 16px system-ui, sans-serif;
+      background: var(--background);
+      color: var(--text);
+      max-width: 680px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    label {
+      display: block;
+      margin: 0.8rem 0 0.2rem;
+      font-weight: 600;
+    }
+
+    /* ---------- Form controls ---------- */
+    select, textarea, button {
+      font: inherit;
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--background);
+      color: var(--text);
+      box-sizing: border-box;
+    }
+    button {
+      background: var(--accent);
+      color: #ffffff;
+      border: 0;
+      margin-top: 1rem;
+      cursor: pointer;
+    }
+
+    /* ---------- Result box ---------- */
+    #result {
+      margin-top: 1.5rem;
+      padding: 1rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+    .team-name { font-size: 1.6rem; font-weight: 700; }
+    .muted { color: var(--text-muted); }
+
+    /* One colour per advice type returned by the service */
+    .route            { color: var(--good); }
+    .route_and_review { color: var(--warning); }
+    .needs_triage     { color: var(--bad); }
+
+    /* ---------- Score bars (one row per team) ---------- */
+    .score-row {
+      display: grid;
+      grid-template-columns: 160px 1fr 45px;   /* team name | bar | percentage */
+      gap: 0.5rem;
+      align-items: center;
+      font-size: 0.85rem;
+      margin: 0.2rem 0;
+    }
+    .score-bar {
+      height: 8px;
+      background: var(--accent);
+      border-radius: 4px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Where should this request go?</h1>
+
+  <label for="channel">Channel</label>
+  <select id="channel">
+    <option>whatsapp</option>
+    <option>chat</option>
+    <option>email</option>
+    <option>ivr</option>
+  </select>
+
+  <label for="product">Product</label>
+  <select id="product">
+    <option>Air Fryer</option>
+    <option>Mixer Grinder</option>
+    <option>Water Purifier</option>
+    <option>Robot Vacuum</option>
+    <option>Induction Cooktop</option>
+    <option>Ceiling Fan</option>
+    <option>Room Heater</option>
+  </select>
+
+  <label for="warranty">Warranty</label>
+  <select id="warranty">
+    <option value="in_warranty">In warranty</option>
+    <option value="shield">Kestrel Shield</option>
+    <option value="out_of_warranty">Out of warranty</option>
+  </select>
+
+  <label for="message">Customer message</label>
+  <textarea id="message" rows="3">hi, water purifier stopped working after 9 months, i paid on upi</textarea>
+
+  <button id="route-button">Route it</button>
+
+  <!-- aria-live makes screen readers announce the result when it appears -->
+  <div id="result" hidden aria-live="polite"></div>
+
+  <script>
+    // ---------- Helpers ----------
+    const byId = (id) => document.getElementById(id);
+
+    // Plain-English wording for each kind of advice the service can give
+    const ADVICE_LABELS = {
+      route: "Route it",
+      route_and_review: "Route, then check",
+      needs_triage: "Ask the customer first",
+    };
+
+    // Stop text from the service being read as HTML
+    function escapeHtml(text) {
+      const replacements = { "<": "&lt;", ">": "&gt;", "&": "&amp;" };
+      return String(text).replace(/[<>&]/g, (character) => replacements[character]);
+    }
+
+    // ---------- Building the result ----------
+    function buildScoreBars(scores) {
+      return Object.entries(scores)
+        .sort((a, b) => b[1] - a[1])                      // highest score first
+        .map(([team, score]) => `
+          <div class="score-row">
+            <span>${escapeHtml(team)}</span>
+            <div><div class="score-bar" style="width:${score * 100}%"></div></div>
+            <span>${Math.round(score * 100)}%</span>
+          </div>`)
+        .join("");
+    }
+
+    function buildResult(response) {
+      const needsTriage = response.action === "needs_triage";
+
+      const headline = needsTriage
+        ? "Not clear enough to route"
+        : escapeHtml(response.current_team_name);
+
+      const bestGuess = needsTriage
+        ? `<div class="muted">Best guess if you must: ${escapeHtml(response.current_team_name)}</div>`
+        : "";
+
+      const reasons = response.reasons
+        .map((reason) => `<li>${escapeHtml(reason)}</li>`)
+        .join("");
+
+      return `
+        <div class="team-name">${headline}</div>
+        <div class="${response.action}">
+          <b>${ADVICE_LABELS[response.action]}</b>
+          <span class="muted">(confidence ${Math.round(response.confidence * 100)}%)</span>
+        </div>
+        ${bestGuess}
+        <ul>${reasons}</ul>
+        ${buildScoreBars(response.scores)}`;
+    }
+
+    // ---------- Button click: send the request, show the answer ----------
+    byId("route-button").onclick = async () => {
+      const resultBox = byId("result");
+      resultBox.hidden = false;
+      resultBox.textContent = "Working...";
+
+      // These four names must match what the service expects
+      const requestBody = {
+        channel: byId("channel").value,
+        product_family: byId("product").value,
+        warranty_status: byId("warranty").value,
+        request_text: byId("message").value,
+      };
+
+      try {
+        const reply = await fetch("/route", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(requestBody),
+        });
+        const response = await reply.json();
+
+        if (!reply.ok) {                       // e.g. a missing field
+          resultBox.textContent = response.error || "Something went wrong.";
+          return;
+        }
+        resultBox.innerHTML = buildResult(response);
+      } catch (error) {                        // the server is not running
+        resultBox.textContent = "Cannot reach the routing service. Is it running?";
+      }
+    };
+  </script>
+</body>
+</html>

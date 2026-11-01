@@ -1,0 +1,78 @@
+{
+ "C": 10,
+ "holdout_n": 2135,
+ "model_vs_final": 0.8388758782201405,
+ "bot_vs_final": 0.7667447306791569,
+ "model_vs_bot_label": 0.7765807962529274,
+ "bot_label_learnable": 0.9480093676814988,
+ "bot_clone_vs_final": 0.7578454332552693,
+ "hi_conf_share": 0.7718969555035129,
+ "hi_conf_acc": 0.9702669902912622,
+ "lo_conf_share": 0.10913348946135831,
+ "lo_conf_acc": 0.21030042918454936,
+ "ci95": [
+  0.8238875878220141,
+  0.8543325526932084
+ ],
+ "per_class": {
+  "Billing": {
+   "precision": 0.8582375478927203,
+   "recall": 0.8784313725490196,
+   "f1-score": 0.8682170542635659,
+   "support": 255.0
+  },
+  "Consumables": {
+   "precision": 0.8130841121495327,
+   "recall": 0.8405797101449275,
+   "f1-score": 0.8266033254156769,
+   "support": 207.0
+  },
+  "Installations": {
+   "precision": 0.8348909657320872,
+   "recall": 0.8348909657320872,
+   "f1-score": 0.8348909657320872,
+   "support": 321.0
+  },
+  "Product Advice": {
+   "precision": 0.8136882129277566,
+   "recall": 0.7955390334572491,
+   "f1-score": 0.8045112781954887,
+   "support": 269.0
+  },
+  "Repairs": {
+   "precision": 0.8482490272373541,
+   "recall": 0.8755020080321285,
+   "f1-score": 0.8616600790513834,
+   "support": 498.0
+  },
+  "Returns & Replacement": {
+   "precision": 0.8512658227848101,
+   "recall": 0.8251533742331288,
+   "f1-score": 0.838006230529595,
+   "support": 326.0
+  },
+  "Warranty Claims": {
+   "precision": 0.8373983739837398,
+   "recall": 0.7953667953667953,
+   "f1-score": 0.8158415841584158,
+   "support": 259.0
+  },
+  "accuracy": 0.8388758782201405,
+  "macro avg": {
+   "precision": 0.8366877232440001,
+   "recall": 0.8350661799307623,
+   "f1-score": 0.835675788192316,
+   "support": 2135.0
+  },
+  "weighted avg": {
+   "precision": 0.8388140364679169,
+   "recall": 0.8388758782201405,
+   "f1-score": 0.8386489423185516,
+   "support": 2135.0
+  }
+ },
+ "train_transfers_per_req": 0.36056181851783403,
+ "train_misrouted_share_bot": 0.24912215856588432,
+ "months": 15,
+ "req_per_month": 721.4666666666667
+}

@@ -1,0 +1,2179 @@
+request_id,team,confidence
+SR510822,Repairs,0.966
+SR510823,Consumables,0.989
+SR510824,Repairs,0.996
+SR510825,Installations,0.896
+SR510826,Installations,0.997
+SR510827,Installations,0.99
+SR510828,Installations,0.995
+SR510829,Installations,0.997
+SR510830,Installations,0.979
+SR510831,Repairs,0.991
+SR510832,Consumables,0.986
+SR510833,Consumables,0.991
+SR510834,Installations,0.997
+SR510835,Repairs,0.977
+SR510836,Repairs,0.999
+SR510837,Billing,0.996
+SR510838,Product Advice,0.984
+SR510839,Product Advice,0.979
+SR510840,Repairs,0.94
+SR510841,Repairs,0.451
+SR510842,Product Advice,0.994
+SR510843,Installations,0.993
+SR510844,Billing,1.0
+SR510845,Product Advice,0.771
+SR510846,Repairs,0.991
+SR510847,Repairs,0.454
+SR510848,Repairs,0.987
+SR510849,Warranty Claims,0.91
+SR510850,Warranty Claims,0.367
+SR510851,Repairs,0.987
+SR510852,Warranty Claims,0.656
+SR510853,Installations,0.981
+SR510854,Warranty Claims,0.985
+SR510855,Installations,0.364
+SR510856,Consumables,0.969
+SR510857,Product Advice,0.97
+SR510858,Billing,0.339
+SR510859,Repairs,0.998
+SR510860,Repairs,0.995
+SR510861,Consumables,0.997
+SR510862,Repairs,0.804
+SR510863,Returns & Replacement,0.883
+SR510864,Consumables,0.886
+SR510865,Repairs,0.998
+SR510866,Installations,0.924
+SR510867,Warranty Claims,0.986
+SR510868,Consumables,0.545
+SR510869,Repairs,0.996
+SR510870,Consumables,0.769
+SR510871,Installations,0.982
+SR510872,Consumables,0.943
+SR510873,Returns & Replacement,0.985
+SR510874,Installations,0.93
+SR510875,Returns & Replacement,0.637
+SR510876,Billing,0.979
+SR510877,Returns & Replacement,0.939
+SR510878,Warranty Claims,0.981
+SR510879,Returns & Replacement,0.295
+SR510880,Warranty Claims,0.569
+SR510881,Installations,0.993
+SR510882,Returns & Replacement,0.973
+SR510883,Billing,0.996
+SR510884,Installations,0.992
+SR510885,Billing,0.345
+SR510886,Repairs,0.801
+SR510887,Repairs,0.912
+SR510888,Repairs,0.999
+SR510889,Repairs,0.429
+SR510890,Repairs,0.929
+SR510891,Repairs,0.977
+SR510892,Repairs,0.992
+SR510893,Repairs,0.977
+SR510894,Billing,0.48
+SR510895,Billing,0.935
+SR510896,Installations,0.987
+SR510897,Warranty Claims,0.995
+SR510898,Warranty Claims,0.476
+SR510899,Installations,0.997
+SR510900,Billing,0.958
+SR510901,Repairs,0.989
+SR510902,Warranty Claims,0.995
+SR510903,Installations,0.99
+SR510904,Warranty Claims,0.268
+SR510905,Warranty Claims,0.991
+SR510906,Consumables,0.953
+SR510907,Billing,0.961
+SR510908,Consumables,0.985
+SR510909,Product Advice,0.992
+SR510910,Product Advice,0.99
+SR510911,Repairs,1.0
+SR510912,Repairs,0.997
+SR510913,Repairs,0.77
+SR510914,Repairs,0.993
+SR510915,Warranty Claims,0.679
+SR510916,Billing,0.942
+SR510917,Billing,0.94
+SR510918,Returns & Replacement,0.985
+SR510919,Repairs,0.99
+SR510920,Billing,0.988
+SR510921,Consumables,0.994
+SR510922,Installations,0.991
+SR510923,Product Advice,0.984
+SR510924,Installations,0.997
+SR510925,Consumables,0.97
+SR510926,Billing,0.584
+SR510927,Billing,0.99
+SR510928,Returns & Replacement,0.994
+SR510929,Returns & Replacement,0.996
+SR510930,Consumables,0.963
+SR510931,Billing,0.321
+SR510932,Billing,0.547
+SR510933,Installations,0.997
+SR510934,Installations,0.986
+SR510935,Product Advice,0.722
+SR510936,Product Advice,0.989
+SR510937,Returns & Replacement,0.994
+SR510938,Warranty Claims,0.983
+SR510939,Repairs,0.422
+SR510940,Warranty Claims,0.842
+SR510941,Returns & Replacement,0.998
+SR510942,Consumables,0.976
+SR510943,Consumables,0.949
+SR510944,Warranty Claims,0.992
+SR510945,Returns & Replacement,0.79
+SR510946,Installations,0.986
+SR510947,Returns & Replacement,0.991
+SR510948,Warranty Claims,0.995
+SR510949,Consumables,0.994
+SR510950,Returns & Replacement,0.337
+SR510951,Product Advice,0.998
+SR510952,Billing,0.972
+SR510953,Warranty Claims,0.828
+SR510954,Installations,0.986
+SR510955,Repairs,0.992
+SR510956,Repairs,0.999
+SR510957,Returns & Replacement,0.997
+SR510958,Warranty Claims,0.991
+SR510959,Installations,0.84
+SR510960,Consumables,0.957
+SR510961,Installations,0.994
+SR510962,Billing,0.982
+SR510963,Repairs,0.976
+SR510964,Repairs,0.998
+SR510965,Product Advice,0.487
+SR510966,Repairs,0.997
+SR510967,Repairs,0.999
+SR510968,Consumables,0.983
+SR510969,Repairs,0.993
+SR510970,Consumables,0.319
+SR510971,Returns & Replacement,0.995
+SR510972,Installations,0.941
+SR510973,Installations,0.989
+SR510974,Returns & Replacement,0.567
+SR510975,Returns & Replacement,0.342
+SR510976,Product Advice,0.785
+SR510977,Repairs,0.994
+SR510978,Returns & Replacement,0.997
+SR510979,Repairs,0.977
+SR510980,Repairs,0.772
+SR510981,Billing,0.839
+SR510982,Product Advice,0.991
+SR510983,Warranty Claims,0.883
+SR510984,Consumables,0.99
+SR510985,Consumables,0.41
+SR510986,Product Advice,0.754
+SR510987,Repairs,0.99
+SR510988,Repairs,0.922
+SR510989,Repairs,0.994
+SR510990,Returns & Replacement,0.995
+SR510991,Consumables,0.989
+SR510992,Installations,0.462
+SR510993,Returns & Replacement,0.995
+SR510994,Repairs,0.994
+SR510995,Product Advice,0.995
+SR510996,Installations,0.99
+SR510997,Installations,0.299
+SR510998,Returns & Replacement,0.982
+SR510999,Consumables,0.897
+SR511000,Installations,0.998
+SR511001,Installations,0.978
+SR511002,Warranty Claims,0.983
+SR511003,Product Advice,0.967
+SR511004,Billing,0.993
+SR511005,Repairs,0.997
+SR511006,Billing,0.673
+SR511007,Repairs,0.993
+SR511008,Repairs,0.994
+SR511009,Repairs,0.991
+SR511010,Installations,0.268
+SR511011,Repairs,0.998
+SR511012,Warranty Claims,0.989
+SR511013,Repairs,0.992
+SR511014,Consumables,0.948
+SR511015,Installations,0.984
+SR511016,Billing,0.904
+SR511017,Repairs,1.0
+SR511018,Installations,0.997
+SR511019,Installations,0.999
+SR511020,Warranty Claims,0.954
+SR511021,Installations,0.995
+SR511022,Repairs,0.491
+SR511023,Billing,0.746
+SR511024,Installations,0.948
+SR511025,Returns & Replacement,0.99
+SR511026,Returns & Replacement,0.998
+SR511027,Product Advice,0.997
+SR511028,Billing,0.992
+SR511029,Repairs,0.997
+SR511030,Billing,0.957
+SR511031,Consumables,0.995
+SR511032,Installations,0.512
+SR511033,Installations,0.998
+SR511034,Product Advice,0.986
+SR511035,Returns & Replacement,0.873
+SR511036,Product Advice,0.622
+SR511037,Product Advice,0.417
+SR511038,Returns & Replacement,0.844
+SR511039,Installations,0.951
+SR511040,Repairs,0.63
+SR511041,Installations,0.983
+SR511042,Consumables,0.566
+SR511043,Installations,0.367
+SR511044,Repairs,0.996
+SR511045,Returns & Replacement,0.99
+SR511046,Repairs,0.993
+SR511047,Repairs,0.995
+SR511048,Installations,0.996
+SR511049,Consumables,0.781
+SR511050,Installations,0.868
+SR511051,Repairs,0.741
+SR511052,Repairs,0.99
+SR511053,Repairs,0.998
+SR511054,Product Advice,0.975
+SR511055,Repairs,0.619
+SR511056,Product Advice,0.999
+SR511057,Repairs,0.741
+SR511058,Repairs,0.998
+SR511059,Product Advice,0.981
+SR511060,Repairs,0.999
+SR511061,Consumables,0.966
+SR511062,Billing,0.975
+SR511063,Repairs,0.967
+SR511064,Repairs,1.0
+SR511065,Installations,0.996
+SR511066,Warranty Claims,0.996
+SR511067,Repairs,0.991
+SR511068,Consumables,0.979
+SR511069,Product Advice,0.969
+SR511070,Repairs,0.998
+SR511071,Product Advice,0.989
+SR511072,Returns & Replacement,0.997
+SR511073,Returns & Replacement,0.984
+SR511074,Repairs,1.0
+SR511075,Repairs,0.978
+SR511076,Billing,0.952
+SR511077,Returns & Replacement,0.986
+SR511078,Consumables,0.973
+SR511079,Warranty Claims,0.998
+SR511080,Returns & Replacement,0.879
+SR511081,Product Advice,0.999
+SR511082,Returns & Replacement,0.806
+SR511083,Product Advice,0.545
+SR511084,Installations,0.98
+SR511085,Warranty Claims,0.835
+SR511086,Product Advice,0.776
+SR511087,Returns & Replacement,0.861
+SR511088,Product Advice,0.919
+SR511089,Product Advice,0.698
+SR511090,Warranty Claims,0.995
+SR511091,Installations,0.986
+SR511092,Installations,0.996
+SR511093,Consumables,0.977
+SR511094,Warranty Claims,0.979
+SR511095,Product Advice,0.977
+SR511096,Billing,0.995
+SR511097,Consumables,0.978
+SR511098,Product Advice,0.994
+SR511099,Returns & Replacement,0.95
+SR511100,Installations,0.762
+SR511101,Warranty Claims,0.995
+SR511102,Billing,0.801
+SR511103,Installations,0.991
+SR511104,Installations,0.408
+SR511105,Repairs,0.988
+SR511106,Consumables,0.991
+SR511107,Returns & Replacement,0.997
+SR511108,Consumables,0.978
+SR511109,Repairs,0.358
+SR511110,Billing,0.983
+SR511111,Consumables,0.96
+SR511112,Billing,0.98
+SR511113,Product Advice,0.995
+SR511114,Returns & Replacement,0.997
+SR511115,Billing,0.462
+SR511116,Warranty Claims,0.99
+SR511117,Repairs,0.997
+SR511118,Returns & Replacement,0.994
+SR511119,Repairs,0.897
+SR511120,Billing,0.993
+SR511121,Billing,0.996
+SR511122,Repairs,0.997
+SR511123,Repairs,0.998
+SR511124,Returns & Replacement,0.766
+SR511125,Product Advice,0.995
+SR511126,Returns & Replacement,0.925
+SR511127,Repairs,0.645
+SR511128,Repairs,0.997
+SR511129,Product Advice,0.995
+SR511130,Billing,0.93
+SR511131,Product Advice,0.993
+SR511132,Installations,0.571
+SR511133,Installations,0.977
+SR511134,Returns & Replacement,0.994
+SR511135,Repairs,0.47
+SR511136,Installations,0.988
+SR511137,Returns & Replacement,0.995
+SR511138,Installations,0.935
+SR511139,Installations,0.994
+SR511140,Billing,0.984
+SR511141,Repairs,1.0
+SR511142,Returns & Replacement,0.259
+SR511143,Installations,0.994
+SR511144,Returns & Replacement,0.993
+SR511145,Returns & Replacement,0.991
+SR511146,Repairs,0.976
+SR511147,Product Advice,0.992
+SR511148,Warranty Claims,0.984
+SR511149,Product Advice,0.963
+SR511150,Repairs,0.618
+SR511151,Repairs,0.982
+SR511152,Billing,0.999
+SR511153,Installations,0.307
+SR511154,Consumables,0.928
+SR511155,Consumables,0.993
+SR511156,Installations,0.966
+SR511157,Warranty Claims,0.998
+SR511158,Installations,0.984
+SR511159,Warranty Claims,0.993
+SR511160,Returns & Replacement,0.995
+SR511161,Billing,0.97
+SR511162,Billing,0.996
+SR511163,Product Advice,0.531
+SR511164,Returns & Replacement,0.992
+SR511165,Installations,0.976
+SR511166,Installations,0.996
+SR511167,Billing,0.966
+SR511168,Installations,0.251
+SR511169,Returns & Replacement,0.999
+SR511170,Installations,0.424
+SR511171,Installations,0.998
+SR511172,Warranty Claims,0.956
+SR511173,Product Advice,0.995
+SR511174,Warranty Claims,0.335
+SR511175,Billing,0.993
+SR511176,Repairs,0.996
+SR511177,Returns & Replacement,0.959
+SR511178,Returns & Replacement,0.45
+SR511179,Billing,0.994
+SR511180,Billing,0.991
+SR511181,Billing,0.929
+SR511182,Product Advice,0.993
+SR511183,Warranty Claims,0.989
+SR511184,Returns & Replacement,0.978
+SR511185,Installations,0.34
+SR511186,Product Advice,0.901
+SR511187,Installations,0.42
+SR511188,Billing,0.988
+SR511189,Repairs,0.991
+SR511190,Consumables,0.967
+SR511191,Installations,0.993
+SR511192,Installations,0.992
+SR511193,Repairs,0.999
+SR511194,Repairs,0.973
+SR511195,Returns & Replacement,0.828
+SR511196,Billing,0.989
+SR511197,Billing,0.779
+SR511198,Product Advice,0.355
+SR511199,Repairs,0.999
+SR511200,Returns & Replacement,0.976
+SR511201,Returns & Replacement,0.996
+SR511202,Repairs,0.956
+SR511203,Billing,0.993
+SR511204,Consumables,0.329
+SR511205,Repairs,0.988
+SR511206,Repairs,1.0
+SR511207,Product Advice,0.996
+SR511208,Consumables,0.685
+SR511209,Product Advice,0.354
+SR511210,Returns & Replacement,0.995
+SR511211,Consumables,0.991
+SR511212,Installations,0.972
+SR511213,Installations,0.992
+SR511214,Warranty Claims,0.468
+SR511215,Billing,0.996
+SR511216,Billing,0.904
+SR511217,Repairs,0.975
+SR511218,Billing,0.994
+SR511219,Billing,0.992
+SR511220,Warranty Claims,0.988
+SR511221,Returns & Replacement,0.999
+SR511222,Installations,0.977
+SR511223,Repairs,0.993
+SR511224,Repairs,0.99
+SR511225,Installations,0.983
+SR511226,Billing,0.564
+SR511227,Billing,0.999
+SR511228,Billing,0.997
+SR511229,Consumables,0.24
+SR511230,Installations,0.963
+SR511231,Repairs,0.474
+SR511232,Product Advice,0.961
+SR511233,Repairs,1.0
+SR511234,Consumables,0.941
+SR511235,Installations,0.998
+SR511236,Product Advice,0.956
+SR511237,Returns & Replacement,0.986
+SR511238,Consumables,0.977
+SR511239,Warranty Claims,0.988
+SR511240,Repairs,0.404
+SR511241,Billing,0.995
+SR511242,Returns & Replacement,0.996
+SR511243,Installations,0.984
+SR511244,Billing,0.994
+SR511245,Product Advice,0.994
+SR511246,Installations,0.975
+SR511247,Repairs,0.998
+SR511248,Product Advice,0.999
+SR511249,Returns & Replacement,0.988
+SR511250,Consumables,0.898
+SR511251,Returns & Replacement,0.329
+SR511252,Installations,0.968
+SR511253,Product Advice,0.946
+SR511254,Repairs,0.384
+SR511255,Billing,0.773
+SR511256,Repairs,0.999
+SR511257,Product Advice,0.982
+SR511258,Product Advice,0.994
+SR511259,Product Advice,0.998
+SR511260,Repairs,0.995
+SR511261,Installations,0.45
+SR511262,Returns & Replacement,0.994
+SR511263,Repairs,0.99
+SR511264,Repairs,0.407
+SR511265,Product Advice,0.456
+SR511266,Returns & Replacement,0.994
+SR511267,Returns & Replacement,0.998
+SR511268,Billing,0.991
+SR511269,Returns & Replacement,0.998
+SR511270,Repairs,0.864
+SR511271,Consumables,0.976
+SR511272,Warranty Claims,0.988
+SR511273,Repairs,0.975
+SR511274,Product Advice,0.982
+SR511275,Product Advice,0.974
+SR511276,Returns & Replacement,0.991
+SR511277,Returns & Replacement,0.911
+SR511278,Returns & Replacement,0.995
+SR511279,Returns & Replacement,0.944
+SR511280,Warranty Claims,0.962
+SR511281,Installations,0.917
+SR511282,Repairs,0.94
+SR511283,Returns & Replacement,0.996
+SR511284,Returns & Replacement,0.989
+SR511285,Product Advice,0.989
+SR511286,Warranty Claims,0.962
+SR511287,Repairs,0.954
+SR511288,Billing,0.948
+SR511289,Product Advice,0.961
+SR511290,Repairs,0.999
+SR511291,Warranty Claims,0.999
+SR511292,Repairs,0.998
+SR511293,Billing,0.535
+SR511294,Billing,0.994
+SR511295,Returns & Replacement,0.934
+SR511296,Warranty Claims,0.997
+SR511297,Repairs,0.999
+SR511298,Returns & Replacement,0.994
+SR511299,Repairs,0.972
+SR511300,Repairs,0.994
+SR511301,Returns & Replacement,0.971
+SR511302,Billing,0.995
+SR511303,Consumables,0.942
+SR511304,Repairs,0.991
+SR511305,Repairs,0.988
+SR511306,Repairs,0.986
+SR511307,Installations,0.882
+SR511308,Billing,0.898
+SR511309,Repairs,0.646
+SR511310,Product Advice,0.896
+SR511311,Warranty Claims,0.961
+SR511312,Repairs,0.998
+SR511313,Billing,0.977
+SR511314,Warranty Claims,0.99
+SR511315,Product Advice,0.991
+SR511316,Installations,0.998
+SR511317,Returns & Replacement,0.987
+SR511318,Consumables,0.317
+SR511319,Repairs,0.994
+SR511320,Repairs,0.997
+SR511321,Returns & Replacement,0.991
+SR511322,Warranty Claims,0.996
+SR511323,Installations,0.99
+SR511324,Installations,0.995
+SR511325,Billing,0.995
+SR511326,Product Advice,0.996
+SR511327,Product Advice,0.449
+SR511328,Repairs,0.994
+SR511329,Warranty Claims,0.985
+SR511330,Billing,0.93
+SR511331,Installations,0.963
+SR511332,Billing,0.999
+SR511333,Product Advice,0.959
+SR511334,Billing,0.85
+SR511335,Product Advice,0.305
+SR511336,Returns & Replacement,0.995
+SR511337,Returns & Replacement,0.837
+SR511338,Returns & Replacement,0.217
+SR511339,Repairs,0.844
+SR511340,Returns & Replacement,0.986
+SR511341,Returns & Replacement,0.932
+SR511342,Repairs,0.986
+SR511343,Installations,0.862
+SR511344,Billing,0.982
+SR511345,Billing,0.921
+SR511346,Product Advice,0.998
+SR511347,Installations,0.967
+SR511348,Repairs,0.992
+SR511349,Warranty Claims,0.777
+SR511350,Product Advice,0.316
+SR511351,Returns & Replacement,0.993
+SR511352,Repairs,0.999
+SR511353,Installations,0.982
+SR511354,Installations,0.752
+SR511355,Warranty Claims,0.986
+SR511356,Product Advice,0.864
+SR511357,Repairs,0.997
+SR511358,Returns & Replacement,0.915
+SR511359,Installations,0.997
+SR511360,Consumables,0.947
+SR511361,Installations,0.936
+SR511362,Repairs,0.997
+SR511363,Product Advice,0.989
+SR511364,Warranty Claims,0.967
+SR511365,Product Advice,0.995
+SR511366,Warranty Claims,0.993
+SR511367,Consumables,0.992
+SR511368,Returns & Replacement,0.97
+SR511369,Warranty Claims,0.681
+SR511370,Returns & Replacement,0.984
+SR511371,Product Advice,0.51
+SR511372,Warranty Claims,0.995
+SR511373,Warranty Claims,0.942
+SR511374,Warranty Claims,0.994
+SR511375,Installations,0.979
+SR511376,Installations,0.983
+SR511377,Installations,0.661
+SR511378,Installations,0.961
+SR511379,Repairs,0.994
+SR511380,Billing,0.485
+SR511381,Warranty Claims,0.992
+SR511382,Product Advice,0.769
+SR511383,Billing,0.99
+SR511384,Repairs,0.995
+SR511385,Repairs,0.985
+SR511386,Installations,0.773
+SR511387,Installations,0.25
+SR511388,Product Advice,0.989
+SR511389,Repairs,0.982
+SR511390,Billing,0.993
+SR511391,Installations,0.993
+SR511392,Product Advice,0.994
+SR511393,Installations,0.947
+SR511394,Warranty Claims,0.98
+SR511395,Billing,0.996
+SR511396,Installations,0.996
+SR511397,Repairs,0.967
+SR511398,Consumables,0.887
+SR511399,Product Advice,0.947
+SR511400,Returns & Replacement,0.997
+SR511401,Repairs,0.993
+SR511402,Repairs,0.999
+SR511403,Repairs,0.996
+SR511404,Warranty Claims,0.971
+SR511405,Product Advice,0.975
+SR511406,Product Advice,0.996
+SR511407,Returns & Replacement,0.949
+SR511408,Repairs,0.982
+SR511409,Warranty Claims,0.298
+SR511410,Product Advice,0.992
+SR511411,Repairs,0.428
+SR511412,Billing,0.685
+SR511413,Billing,0.984
+SR511414,Returns & Replacement,0.987
+SR511415,Returns & Replacement,0.99
+SR511416,Repairs,0.998
+SR511417,Repairs,0.999
+SR511418,Repairs,0.98
+SR511419,Returns & Replacement,0.772
+SR511420,Repairs,0.995
+SR511421,Repairs,0.957
+SR511422,Repairs,0.977
+SR511423,Returns & Replacement,0.588
+SR511424,Returns & Replacement,0.986
+SR511425,Installations,0.405
+SR511426,Repairs,0.999
+SR511427,Installations,0.977
+SR511428,Product Advice,0.993
+SR511429,Returns & Replacement,0.413
+SR511430,Repairs,0.992
+SR511431,Warranty Claims,0.358
+SR511432,Repairs,0.971
+SR511433,Repairs,0.976
+SR511434,Product Advice,0.721
+SR511435,Repairs,0.995
+SR511436,Installations,0.327
+SR511437,Installations,0.977
+SR511438,Returns & Replacement,0.964
+SR511439,Installations,0.992
+SR511440,Warranty Claims,0.493
+SR511441,Consumables,0.978
+SR511442,Product Advice,0.98
+SR511443,Warranty Claims,0.998
+SR511444,Repairs,0.974
+SR511445,Repairs,0.423
+SR511446,Repairs,0.425
+SR511447,Returns & Replacement,0.861
+SR511448,Billing,0.989
+SR511449,Repairs,0.994
+SR511450,Billing,0.973
+SR511451,Repairs,0.349
+SR511452,Repairs,0.997
+SR511453,Warranty Claims,0.999
+SR511454,Product Advice,0.996
+SR511455,Installations,0.965
+SR511456,Repairs,0.903
+SR511457,Returns & Replacement,0.387
+SR511458,Repairs,0.958
+SR511459,Product Advice,0.82
+SR511460,Billing,0.993
+SR511461,Product Advice,0.983
+SR511462,Returns & Replacement,0.919
+SR511463,Repairs,0.99
+SR511464,Repairs,0.981
+SR511465,Billing,0.648
+SR511466,Product Advice,0.994
+SR511467,Repairs,0.989
+SR511468,Billing,0.962
+SR511469,Warranty Claims,0.977
+SR511470,Warranty Claims,0.992
+SR511471,Consumables,0.997
+SR511472,Returns & Replacement,0.994
+SR511473,Product Advice,0.992
+SR511474,Consumables,0.995
+SR511475,Repairs,0.999
+SR511476,Repairs,0.766
+SR511477,Product Advice,0.38
+SR511478,Consumables,0.998
+SR511479,Product Advice,0.853
+SR511480,Warranty Claims,0.959
+SR511481,Warranty Claims,0.989
+SR511482,Installations,0.322
+SR511483,Repairs,0.998
+SR511484,Billing,0.985
+SR511485,Installations,0.465
+SR511486,Product Advice,0.962
+SR511487,Billing,0.993
+SR511488,Installations,0.237
+SR511489,Product Advice,0.873
+SR511490,Repairs,0.915
+SR511491,Repairs,0.933
+SR511492,Repairs,0.987
+SR511493,Repairs,0.997
+SR511494,Product Advice,0.997
+SR511495,Installations,0.989
+SR511496,Product Advice,0.596
+SR511497,Consumables,0.608
+SR511498,Product Advice,0.995
+SR511499,Returns & Replacement,0.935
+SR511500,Installations,0.977
+SR511501,Billing,0.951
+SR511502,Repairs,0.333
+SR511503,Installations,0.479
+SR511504,Repairs,0.927
+SR511505,Warranty Claims,0.974
+SR511506,Billing,0.969
+SR511507,Returns & Replacement,0.723
+SR511508,Billing,0.473
+SR511509,Product Advice,0.925
+SR511510,Returns & Replacement,0.932
+SR511511,Installations,0.987
+SR511512,Product Advice,0.899
+SR511513,Consumables,0.978
+SR511514,Returns & Replacement,0.393
+SR511515,Repairs,0.997
+SR511516,Product Advice,0.911
+SR511517,Billing,0.964
+SR511518,Installations,0.988
+SR511519,Billing,0.998
+SR511520,Installations,0.216
+SR511521,Repairs,0.998
+SR511522,Installations,0.987
+SR511523,Repairs,0.977
+SR511524,Installations,0.403
+SR511525,Warranty Claims,0.989
+SR511526,Repairs,0.997
+SR511527,Repairs,0.497
+SR511528,Repairs,0.996
+SR511529,Repairs,0.913
+SR511530,Product Advice,0.966
+SR511531,Product Advice,0.967
+SR511532,Repairs,0.991
+SR511533,Billing,0.977
+SR511534,Product Advice,0.511
+SR511535,Repairs,0.992
+SR511536,Repairs,0.957
+SR511537,Consumables,0.986
+SR511538,Repairs,0.947
+SR511539,Repairs,0.999
+SR511540,Returns & Replacement,0.977
+SR511541,Billing,0.996
+SR511542,Installations,0.625
+SR511543,Warranty Claims,0.952
+SR511544,Returns & Replacement,0.999
+SR511545,Installations,0.997
+SR511546,Installations,0.985
+SR511547,Installations,0.37
+SR511548,Billing,0.979
+SR511549,Installations,0.806
+SR511550,Product Advice,0.998
+SR511551,Installations,0.993
+SR511552,Product Advice,0.993
+SR511553,Warranty Claims,0.995
+SR511554,Repairs,0.683
+SR511555,Warranty Claims,0.671
+SR511556,Repairs,0.858
+SR511557,Installations,0.999
+SR511558,Returns & Replacement,0.589
+SR511559,Repairs,0.953
+SR511560,Billing,0.992
+SR511561,Consumables,0.991
+SR511562,Returns & Replacement,0.897
+SR511563,Billing,0.951
+SR511564,Warranty Claims,0.745
+SR511565,Billing,0.992
+SR511566,Billing,0.96
+SR511567,Billing,0.997
+SR511568,Returns & Replacement,0.988
+SR511569,Warranty Claims,0.781
+SR511570,Repairs,0.994
+SR511571,Billing,0.963
+SR511572,Billing,0.995
+SR511573,Consumables,0.971
+SR511574,Billing,0.995
+SR511575,Repairs,0.998
+SR511576,Installations,0.994
+SR511577,Installations,0.999
+SR511578,Returns & Replacement,0.97
+SR511579,Billing,0.998
+SR511580,Returns & Replacement,0.515
+SR511581,Billing,0.996
+SR511582,Warranty Claims,0.985
+SR511583,Billing,0.649
+SR511584,Returns & Replacement,0.984
+SR511585,Returns & Replacement,0.973
+SR511586,Consumables,0.992
+SR511587,Repairs,0.49
+SR511588,Consumables,0.919
+SR511589,Repairs,0.999
+SR511590,Repairs,0.994
+SR511591,Returns & Replacement,0.353
+SR511592,Returns & Replacement,0.93
+SR511593,Product Advice,0.992
+SR511594,Warranty Claims,0.79
+SR511595,Repairs,0.998
+SR511596,Installations,0.427
+SR511597,Warranty Claims,0.33
+SR511598,Repairs,0.273
+SR511599,Product Advice,0.998
+SR511600,Installations,0.42
+SR511601,Returns & Replacement,0.999
+SR511602,Repairs,0.993
+SR511603,Installations,0.997
+SR511604,Repairs,0.985
+SR511605,Product Advice,0.997
+SR511606,Repairs,0.999
+SR511607,Warranty Claims,0.99
+SR511608,Warranty Claims,0.992
+SR511609,Consumables,0.972
+SR511610,Product Advice,0.997
+SR511611,Billing,0.986
+SR511612,Repairs,0.975
+SR511613,Consumables,0.987
+SR511614,Repairs,0.971
+SR511615,Returns & Replacement,0.301
+SR511616,Consumables,0.992
+SR511617,Repairs,0.986
+SR511618,Repairs,0.999
+SR511619,Repairs,0.999
+SR511620,Billing,0.975
+SR511621,Repairs,0.335
+SR511622,Warranty Claims,0.996
+SR511623,Warranty Claims,0.984
+SR511624,Installations,0.971
+SR511625,Repairs,0.997
+SR511626,Repairs,1.0
+SR511627,Billing,0.996
+SR511628,Warranty Claims,0.97
+SR511629,Returns & Replacement,0.969
+SR511630,Repairs,0.867
+SR511631,Returns & Replacement,0.986
+SR511632,Repairs,0.988
+SR511633,Product Advice,0.973
+SR511634,Warranty Claims,0.925
+SR511635,Warranty Claims,0.969
+SR511636,Warranty Claims,0.399
+SR511637,Billing,0.974
+SR511638,Repairs,0.987
+SR511639,Billing,0.972
+SR511640,Repairs,0.42
+SR511641,Installations,0.986
+SR511642,Returns & Replacement,0.993
+SR511643,Billing,0.988
+SR511644,Repairs,0.234
+SR511645,Billing,0.981
+SR511646,Warranty Claims,0.994
+SR511647,Repairs,0.99
+SR511648,Installations,0.498
+SR511649,Consumables,0.977
+SR511650,Product Advice,0.72
+SR511651,Billing,0.63
+SR511652,Warranty Claims,0.994
+SR511653,Repairs,0.99
+SR511654,Billing,0.985
+SR511655,Product Advice,0.927
+SR511656,Installations,0.586
+SR511657,Product Advice,0.933
+SR511658,Billing,0.998
+SR511659,Returns & Replacement,0.873
+SR511660,Returns & Replacement,0.91
+SR511661,Warranty Claims,0.989
+SR511662,Product Advice,0.435
+SR511663,Billing,0.286
+SR511664,Repairs,0.986
+SR511665,Warranty Claims,0.976
+SR511666,Installations,0.953
+SR511667,Installations,0.973
+SR511668,Installations,0.997
+SR511669,Consumables,0.974
+SR511670,Consumables,0.991
+SR511671,Billing,0.995
+SR511672,Consumables,0.947
+SR511673,Consumables,0.962
+SR511674,Billing,0.994
+SR511675,Billing,0.966
+SR511676,Repairs,0.983
+SR511677,Repairs,0.586
+SR511678,Billing,0.928
+SR511679,Repairs,0.458
+SR511680,Consumables,0.969
+SR511681,Installations,0.959
+SR511682,Repairs,0.996
+SR511683,Installations,0.983
+SR511684,Billing,0.981
+SR511685,Warranty Claims,0.972
+SR511686,Consumables,0.993
+SR511687,Repairs,0.998
+SR511688,Consumables,0.992
+SR511689,Product Advice,1.0
+SR511690,Returns & Replacement,0.983
+SR511691,Repairs,0.449
+SR511692,Repairs,0.418
+SR511693,Installations,0.979
+SR511694,Repairs,0.39
+SR511695,Repairs,0.996
+SR511696,Consumables,0.977
+SR511697,Warranty Claims,0.99
+SR511698,Repairs,0.999
+SR511699,Billing,0.973
+SR511700,Repairs,0.988
+SR511701,Billing,0.981
+SR511702,Warranty Claims,0.98
+SR511703,Installations,0.989
+SR511704,Repairs,0.987
+SR511705,Consumables,0.996
+SR511706,Returns & Replacement,0.991
+SR511707,Installations,0.998
+SR511708,Installations,0.974
+SR511709,Product Advice,0.897
+SR511710,Warranty Claims,0.994
+SR511711,Repairs,0.572
+SR511712,Repairs,1.0
+SR511713,Billing,0.981
+SR511714,Product Advice,0.869
+SR511715,Installations,0.994
+SR511716,Warranty Claims,0.995
+SR511717,Warranty Claims,0.993
+SR511718,Product Advice,0.917
+SR511719,Repairs,0.187
+SR511720,Warranty Claims,0.979
+SR511721,Warranty Claims,0.295
+SR511722,Installations,0.993
+SR511723,Returns & Replacement,0.826
+SR511724,Consumables,0.996
+SR511725,Installations,0.999
+SR511726,Installations,0.996
+SR511727,Repairs,0.999
+SR511728,Returns & Replacement,0.964
+SR511729,Installations,0.601
+SR511730,Installations,0.429
+SR511731,Returns & Replacement,0.215
+SR511732,Repairs,0.998
+SR511733,Installations,0.997
+SR511734,Product Advice,0.996
+SR511735,Warranty Claims,0.996
+SR511736,Product Advice,0.995
+SR511737,Product Advice,0.998
+SR511738,Warranty Claims,0.975
+SR511739,Returns & Replacement,0.983
+SR511740,Repairs,0.816
+SR511741,Repairs,0.989
+SR511742,Repairs,0.998
+SR511743,Warranty Claims,0.948
+SR511744,Billing,0.973
+SR511745,Billing,0.983
+SR511746,Repairs,0.997
+SR511747,Product Advice,0.983
+SR511748,Consumables,0.356
+SR511749,Warranty Claims,0.553
+SR511750,Warranty Claims,0.998
+SR511751,Repairs,0.442
+SR511752,Repairs,0.999
+SR511753,Returns & Replacement,0.98
+SR511754,Warranty Claims,0.993
+SR511755,Consumables,0.996
+SR511756,Repairs,0.999
+SR511757,Billing,0.882
+SR511758,Consumables,0.972
+SR511759,Installations,0.948
+SR511760,Repairs,0.802
+SR511761,Installations,0.489
+SR511762,Product Advice,0.994
+SR511763,Consumables,0.975
+SR511764,Product Advice,0.995
+SR511765,Warranty Claims,0.948
+SR511766,Billing,0.99
+SR511767,Consumables,0.97
+SR511768,Returns & Replacement,0.996
+SR511769,Repairs,0.977
+SR511770,Repairs,0.966
+SR511771,Product Advice,0.988
+SR511772,Warranty Claims,0.997
+SR511773,Repairs,0.983
+SR511774,Billing,0.87
+SR511775,Returns & Replacement,0.986
+SR511776,Repairs,0.379
+SR511777,Returns & Replacement,0.97
+SR511778,Consumables,0.946
+SR511779,Repairs,0.998
+SR511780,Installations,0.978
+SR511781,Warranty Claims,0.991
+SR511782,Repairs,0.998
+SR511783,Warranty Claims,0.988
+SR511784,Billing,0.998
+SR511785,Repairs,0.997
+SR511786,Repairs,0.998
+SR511787,Warranty Claims,0.998
+SR511788,Repairs,0.938
+SR511789,Installations,0.995
+SR511790,Consumables,0.943
+SR511791,Installations,0.972
+SR511792,Consumables,0.405
+SR511793,Installations,0.886
+SR511794,Returns & Replacement,0.998
+SR511795,Returns & Replacement,0.994
+SR511796,Billing,0.991
+SR511797,Consumables,0.99
+SR511798,Consumables,0.937
+SR511799,Consumables,0.409
+SR511800,Billing,0.992
+SR511801,Repairs,0.991
+SR511802,Consumables,0.99
+SR511803,Repairs,0.989
+SR511804,Billing,0.999
+SR511805,Billing,0.526
+SR511806,Returns & Replacement,0.999
+SR511807,Product Advice,0.985
+SR511808,Repairs,0.988
+SR511809,Product Advice,0.968
+SR511810,Product Advice,0.962
+SR511811,Repairs,0.998
+SR511812,Billing,0.936
+SR511813,Returns & Replacement,0.38
+SR511814,Product Advice,0.898
+SR511815,Product Advice,0.998
+SR511816,Repairs,0.996
+SR511817,Warranty Claims,0.831
+SR511818,Repairs,0.997
+SR511819,Returns & Replacement,0.994
+SR511820,Billing,0.337
+SR511821,Installations,0.342
+SR511822,Warranty Claims,0.972
+SR511823,Consumables,0.997
+SR511824,Repairs,0.973
+SR511825,Returns & Replacement,0.989
+SR511826,Repairs,0.261
+SR511827,Billing,0.373
+SR511828,Returns & Replacement,0.98
+SR511829,Billing,0.795
+SR511830,Returns & Replacement,0.993
+SR511831,Billing,0.985
+SR511832,Repairs,0.46
+SR511833,Billing,0.96
+SR511834,Repairs,0.995
+SR511835,Consumables,0.505
+SR511836,Repairs,0.788
+SR511837,Returns & Replacement,0.994
+SR511838,Product Advice,0.997
+SR511839,Installations,0.729
+SR511840,Warranty Claims,0.999
+SR511841,Repairs,0.999
+SR511842,Warranty Claims,0.984
+SR511843,Warranty Claims,0.976
+SR511844,Consumables,0.556
+SR511845,Repairs,0.401
+SR511846,Returns & Replacement,0.984
+SR511847,Returns & Replacement,0.989
+SR511848,Repairs,0.775
+SR511849,Warranty Claims,0.989
+SR511850,Billing,0.992
+SR511851,Repairs,0.981
+SR511852,Billing,0.994
+SR511853,Repairs,0.937
+SR511854,Warranty Claims,0.922
+SR511855,Repairs,0.999
+SR511856,Product Advice,0.424
+SR511857,Consumables,0.995
+SR511858,Billing,0.982
+SR511859,Repairs,0.999
+SR511860,Repairs,0.977
+SR511861,Repairs,0.373
+SR511862,Repairs,0.307
+SR511863,Repairs,0.998
+SR511864,Warranty Claims,0.994
+SR511865,Consumables,0.951
+SR511866,Returns & Replacement,0.728
+SR511867,Product Advice,0.976
+SR511868,Returns & Replacement,0.444
+SR511869,Warranty Claims,0.983
+SR511870,Installations,0.994
+SR511871,Warranty Claims,0.991
+SR511872,Product Advice,0.6
+SR511873,Product Advice,0.984
+SR511874,Billing,0.985
+SR511875,Repairs,0.998
+SR511876,Product Advice,0.99
+SR511877,Product Advice,0.982
+SR511878,Repairs,0.999
+SR511879,Warranty Claims,0.999
+SR511880,Repairs,0.999
+SR511881,Returns & Replacement,0.99
+SR511882,Returns & Replacement,0.985
+SR511883,Product Advice,0.995
+SR511884,Product Advice,0.991
+SR511885,Returns & Replacement,0.982
+SR511886,Installations,0.947
+SR511887,Warranty Claims,0.341
+SR511888,Consumables,0.95
+SR511889,Repairs,0.994
+SR511890,Repairs,0.989
+SR511891,Repairs,0.998
+SR511892,Consumables,0.419
+SR511893,Consumables,0.982
+SR511894,Billing,0.984
+SR511895,Returns & Replacement,0.989
+SR511896,Warranty Claims,0.992
+SR511897,Billing,0.92
+SR511898,Billing,0.998
+SR511899,Repairs,0.999
+SR511900,Warranty Claims,0.964
+SR511901,Repairs,0.999
+SR511902,Product Advice,0.299
+SR511903,Billing,0.996
+SR511904,Installations,0.996
+SR511905,Warranty Claims,0.997
+SR511906,Billing,0.943
+SR511907,Consumables,0.957
+SR511908,Warranty Claims,1.0
+SR511909,Consumables,0.995
+SR511910,Repairs,0.99
+SR511911,Returns & Replacement,0.997
+SR511912,Product Advice,0.352
+SR511913,Repairs,0.979
+SR511914,Installations,0.993
+SR511915,Consumables,0.996
+SR511916,Billing,0.896
+SR511917,Warranty Claims,0.998
+SR511918,Repairs,0.994
+SR511919,Warranty Claims,0.998
+SR511920,Returns & Replacement,0.862
+SR511921,Consumables,0.992
+SR511922,Billing,0.998
+SR511923,Warranty Claims,0.995
+SR511924,Installations,0.994
+SR511925,Installations,0.981
+SR511926,Warranty Claims,0.997
+SR511927,Installations,0.984
+SR511928,Repairs,1.0
+SR511929,Installations,0.297
+SR511930,Repairs,0.993
+SR511931,Returns & Replacement,0.98
+SR511932,Product Advice,0.994
+SR511933,Consumables,0.515
+SR511934,Warranty Claims,0.91
+SR511935,Billing,0.929
+SR511936,Returns & Replacement,0.994
+SR511937,Repairs,0.788
+SR511938,Consumables,0.949
+SR511939,Billing,0.445
+SR511940,Installations,0.779
+SR511941,Product Advice,0.984
+SR511942,Installations,0.995
+SR511943,Repairs,0.97
+SR511944,Returns & Replacement,0.908
+SR511945,Repairs,0.997
+SR511946,Billing,0.969
+SR511947,Returns & Replacement,0.994
+SR511948,Consumables,0.992
+SR511949,Installations,0.765
+SR511950,Product Advice,0.999
+SR511951,Repairs,0.991
+SR511952,Product Advice,0.5
+SR511953,Repairs,0.993
+SR511954,Consumables,0.998
+SR511955,Returns & Replacement,0.984
+SR511956,Warranty Claims,0.994
+SR511957,Billing,0.318
+SR511958,Product Advice,0.964
+SR511959,Warranty Claims,0.998
+SR511960,Repairs,1.0
+SR511961,Warranty Claims,0.988
+SR511962,Repairs,0.593
+SR511963,Installations,0.984
+SR511964,Product Advice,0.994
+SR511965,Repairs,0.332
+SR511966,Returns & Replacement,0.983
+SR511967,Repairs,0.996
+SR511968,Installations,0.962
+SR511969,Repairs,0.996
+SR511970,Repairs,0.845
+SR511971,Repairs,0.985
+SR511972,Repairs,0.469
+SR511973,Returns & Replacement,0.891
+SR511974,Warranty Claims,0.998
+SR511975,Product Advice,0.992
+SR511976,Repairs,0.644
+SR511977,Repairs,0.51
+SR511978,Billing,0.993
+SR511979,Returns & Replacement,0.649
+SR511980,Billing,0.518
+SR511981,Repairs,0.992
+SR511982,Returns & Replacement,0.993
+SR511983,Repairs,0.955
+SR511984,Product Advice,0.99
+SR511985,Installations,0.993
+SR511986,Billing,0.998
+SR511987,Consumables,0.816
+SR511988,Installations,0.294
+SR511989,Product Advice,0.992
+SR511990,Installations,0.755
+SR511991,Consumables,0.985
+SR511992,Returns & Replacement,0.872
+SR511993,Product Advice,0.957
+SR511994,Billing,0.569
+SR511995,Installations,0.994
+SR511996,Installations,0.995
+SR511997,Installations,0.991
+SR511998,Returns & Replacement,0.927
+SR511999,Installations,0.989
+SR512000,Repairs,0.998
+SR512001,Product Advice,0.991
+SR512002,Returns & Replacement,0.998
+SR512003,Product Advice,0.438
+SR512004,Billing,0.99
+SR512005,Warranty Claims,0.995
+SR512006,Warranty Claims,0.42
+SR512007,Repairs,0.998
+SR512008,Repairs,0.595
+SR512009,Repairs,0.987
+SR512010,Returns & Replacement,0.976
+SR512011,Warranty Claims,0.523
+SR512012,Repairs,0.339
+SR512013,Installations,0.995
+SR512014,Repairs,0.614
+SR512015,Repairs,0.984
+SR512016,Repairs,0.719
+SR512017,Repairs,0.999
+SR512018,Repairs,0.988
+SR512019,Installations,0.967
+SR512020,Warranty Claims,0.996
+SR512021,Product Advice,0.998
+SR512022,Returns & Replacement,0.883
+SR512023,Product Advice,0.995
+SR512024,Product Advice,0.994
+SR512025,Returns & Replacement,0.971
+SR512026,Warranty Claims,0.335
+SR512027,Warranty Claims,0.931
+SR512028,Billing,0.868
+SR512029,Repairs,1.0
+SR512030,Billing,0.39
+SR512031,Repairs,0.999
+SR512032,Repairs,0.453
+SR512033,Repairs,0.877
+SR512034,Product Advice,0.912
+SR512035,Repairs,0.751
+SR512036,Warranty Claims,0.994
+SR512037,Product Advice,0.338
+SR512038,Repairs,0.996
+SR512039,Returns & Replacement,0.923
+SR512040,Installations,0.612
+SR512041,Repairs,0.999
+SR512042,Product Advice,0.423
+SR512043,Repairs,0.996
+SR512044,Returns & Replacement,0.303
+SR512045,Product Advice,0.988
+SR512046,Returns & Replacement,0.994
+SR512047,Consumables,0.961
+SR512048,Consumables,0.974
+SR512049,Product Advice,0.955
+SR512050,Warranty Claims,0.997
+SR512051,Repairs,0.998
+SR512052,Repairs,0.998
+SR512053,Installations,0.844
+SR512054,Warranty Claims,0.988
+SR512055,Installations,0.988
+SR512056,Warranty Claims,0.28
+SR512057,Installations,0.526
+SR512058,Repairs,0.957
+SR512059,Repairs,0.999
+SR512060,Repairs,0.404
+SR512061,Warranty Claims,0.431
+SR512062,Warranty Claims,0.917
+SR512063,Installations,0.971
+SR512064,Repairs,0.994
+SR512065,Returns & Replacement,0.997
+SR512066,Repairs,0.997
+SR512067,Billing,0.951
+SR512068,Returns & Replacement,0.99
+SR512069,Installations,0.954
+SR512070,Installations,0.995
+SR512071,Product Advice,0.997
+SR512072,Repairs,0.533
+SR512073,Billing,0.934
+SR512074,Product Advice,0.996
+SR512075,Repairs,0.996
+SR512076,Repairs,0.989
+SR512077,Repairs,0.946
+SR512078,Consumables,0.853
+SR512079,Installations,0.998
+SR512080,Installations,0.997
+SR512081,Repairs,0.99
+SR512082,Repairs,0.917
+SR512083,Repairs,0.987
+SR512084,Repairs,0.999
+SR512085,Repairs,0.43
+SR512086,Product Advice,0.994
+SR512087,Product Advice,0.984
+SR512088,Repairs,0.999
+SR512089,Returns & Replacement,0.989
+SR512090,Installations,0.976
+SR512091,Returns & Replacement,0.564
+SR512092,Repairs,0.43
+SR512093,Installations,0.978
+SR512094,Repairs,0.565
+SR512095,Returns & Replacement,0.859
+SR512096,Installations,0.99
+SR512097,Returns & Replacement,0.375
+SR512098,Repairs,0.999
+SR512099,Consumables,0.958
+SR512100,Installations,0.385
+SR512101,Billing,0.998
+SR512102,Billing,0.99
+SR512103,Repairs,0.96
+SR512104,Installations,0.532
+SR512105,Repairs,0.997
+SR512106,Installations,0.942
+SR512107,Consumables,0.997
+SR512108,Repairs,0.828
+SR512109,Warranty Claims,0.991
+SR512110,Billing,0.99
+SR512111,Repairs,0.985
+SR512112,Warranty Claims,0.99
+SR512113,Installations,0.641
+SR512114,Returns & Replacement,0.984
+SR512115,Warranty Claims,0.993
+SR512116,Consumables,0.961
+SR512117,Consumables,0.973
+SR512118,Repairs,0.988
+SR512119,Installations,0.984
+SR512120,Consumables,0.997
+SR512121,Billing,0.995
+SR512122,Returns & Replacement,0.991
+SR512123,Warranty Claims,0.635
+SR512124,Billing,0.984
+SR512125,Product Advice,0.991
+SR512126,Installations,0.994
+SR512127,Repairs,0.991
+SR512128,Returns & Replacement,0.4
+SR512129,Warranty Claims,0.979
+SR512130,Consumables,0.928
+SR512131,Warranty Claims,0.977
+SR512132,Repairs,0.992
+SR512133,Warranty Claims,0.981
+SR512134,Installations,0.333
+SR512135,Product Advice,0.925
+SR512136,Consumables,0.991
+SR512137,Warranty Claims,0.952
+SR512138,Repairs,0.988
+SR512139,Repairs,0.984
+SR512140,Warranty Claims,0.294
+SR512141,Billing,0.995
+SR512142,Returns & Replacement,0.981
+SR512143,Returns & Replacement,0.991
+SR512144,Billing,0.88
+SR512145,Repairs,1.0
+SR512146,Billing,0.995
+SR512147,Consumables,0.996
+SR512148,Repairs,0.999
+SR512149,Billing,0.97
+SR512150,Repairs,0.909
+SR512151,Repairs,0.996
+SR512152,Returns & Replacement,0.989
+SR512153,Consumables,0.385
+SR512154,Product Advice,0.924
+SR512155,Repairs,0.284
+SR512156,Repairs,0.999
+SR512157,Repairs,0.357
+SR512158,Installations,0.991
+SR512159,Repairs,0.994
+SR512160,Repairs,0.982
+SR512161,Repairs,0.999
+SR512162,Warranty Claims,0.999
+SR512163,Billing,0.991
+SR512164,Returns & Replacement,0.944
+SR512165,Warranty Claims,0.974
+SR512166,Billing,0.977
+SR512167,Consumables,0.995
+SR512168,Consumables,0.549
+SR512169,Repairs,0.998
+SR512170,Product Advice,0.343
+SR512171,Returns & Replacement,0.669
+SR512172,Product Advice,0.486
+SR512173,Repairs,0.983
+SR512174,Billing,0.965
+SR512175,Returns & Replacement,0.981
+SR512176,Product Advice,0.998
+SR512177,Product Advice,0.974
+SR512178,Billing,0.996
+SR512179,Installations,0.623
+SR512180,Installations,0.986
+SR512181,Repairs,0.977
+SR512182,Returns & Replacement,0.658
+SR512183,Billing,0.993
+SR512184,Repairs,0.913
+SR512185,Repairs,0.995
+SR512186,Warranty Claims,0.849
+SR512187,Installations,0.643
+SR512188,Returns & Replacement,0.972
+SR512189,Installations,0.994
+SR512190,Installations,0.619
+SR512191,Product Advice,0.772
+SR512192,Repairs,0.991
+SR512193,Product Advice,0.937
+SR512194,Repairs,0.985
+SR512195,Repairs,0.999
+SR512196,Billing,0.997
+SR512197,Repairs,0.274
+SR512198,Repairs,1.0
+SR512199,Installations,0.97
+SR512200,Warranty Claims,0.994
+SR512201,Installations,0.993
+SR512202,Warranty Claims,0.421
+SR512203,Repairs,0.991
+SR512204,Consumables,0.251
+SR512205,Installations,0.971
+SR512206,Returns & Replacement,0.972
+SR512207,Installations,0.99
+SR512208,Returns & Replacement,0.993
+SR512209,Billing,0.985
+SR512210,Returns & Replacement,0.977
+SR512211,Installations,0.962
+SR512212,Warranty Claims,0.993
+SR512213,Installations,0.98
+SR512214,Installations,0.995
+SR512215,Returns & Replacement,0.343
+SR512216,Installations,0.558
+SR512217,Product Advice,0.703
+SR512218,Returns & Replacement,0.98
+SR512219,Returns & Replacement,0.997
+SR512220,Installations,0.996
+SR512221,Returns & Replacement,0.981
+SR512222,Billing,0.991
+SR512223,Repairs,0.892
+SR512224,Installations,0.985
+SR512225,Repairs,0.964
+SR512226,Billing,0.992
+SR512227,Installations,0.998
+SR512228,Returns & Replacement,0.907
+SR512229,Billing,0.997
+SR512230,Warranty Claims,0.272
+SR512231,Installations,0.994
+SR512232,Product Advice,0.996
+SR512233,Consumables,0.989
+SR512234,Consumables,0.423
+SR512235,Installations,0.961
+SR512236,Warranty Claims,0.986
+SR512237,Repairs,0.933
+SR512238,Returns & Replacement,0.952
+SR512239,Installations,0.996
+SR512240,Repairs,0.98
+SR512241,Billing,0.474
+SR512242,Installations,0.519
+SR512243,Consumables,0.975
+SR512244,Repairs,0.988
+SR512245,Returns & Replacement,0.992
+SR512246,Consumables,0.984
+SR512247,Product Advice,0.745
+SR512248,Warranty Claims,0.982
+SR512249,Installations,0.997
+SR512250,Returns & Replacement,0.992
+SR512251,Repairs,0.25
+SR512252,Warranty Claims,0.644
+SR512253,Installations,0.994
+SR512254,Repairs,0.997
+SR512255,Consumables,0.937
+SR512256,Repairs,0.997
+SR512257,Consumables,0.99
+SR512258,Billing,0.986
+SR512259,Installations,0.933
+SR512260,Billing,0.997
+SR512261,Returns & Replacement,0.999
+SR512262,Warranty Claims,0.981
+SR512263,Repairs,0.997
+SR512264,Repairs,0.992
+SR512265,Billing,0.798
+SR512266,Installations,0.997
+SR512267,Warranty Claims,0.992
+SR512268,Returns & Replacement,0.994
+SR512269,Returns & Replacement,0.994
+SR512270,Returns & Replacement,0.788
+SR512271,Installations,0.993
+SR512272,Repairs,0.997
+SR512273,Product Advice,0.998
+SR512274,Warranty Claims,0.384
+SR512275,Product Advice,0.608
+SR512276,Installations,0.945
+SR512277,Warranty Claims,0.986
+SR512278,Repairs,0.844
+SR512279,Repairs,0.933
+SR512280,Product Advice,0.993
+SR512281,Repairs,1.0
+SR512282,Repairs,0.519
+SR512283,Product Advice,0.991
+SR512284,Returns & Replacement,0.252
+SR512285,Repairs,0.999
+SR512286,Consumables,0.975
+SR512287,Returns & Replacement,0.991
+SR512288,Installations,0.63
+SR512289,Consumables,0.964
+SR512290,Consumables,0.98
+SR512291,Installations,0.965
+SR512292,Warranty Claims,0.958
+SR512293,Returns & Replacement,0.986
+SR512294,Repairs,0.913
+SR512295,Product Advice,0.996
+SR512296,Billing,0.977
+SR512297,Billing,0.995
+SR512298,Installations,0.921
+SR512299,Repairs,1.0
+SR512300,Installations,0.902
+SR512301,Product Advice,0.995
+SR512302,Product Advice,0.999
+SR512303,Product Advice,0.998
+SR512304,Repairs,0.56
+SR512305,Repairs,0.997
+SR512306,Billing,0.982
+SR512307,Repairs,0.995
+SR512308,Repairs,0.997
+SR512309,Repairs,0.998
+SR512310,Returns & Replacement,0.982
+SR512311,Billing,0.508
+SR512312,Repairs,0.995
+SR512313,Product Advice,0.994
+SR512314,Warranty Claims,0.628
+SR512315,Product Advice,0.558
+SR512316,Warranty Claims,0.99
+SR512317,Warranty Claims,0.96
+SR512318,Returns & Replacement,0.993
+SR512319,Repairs,0.46
+SR512320,Billing,0.368
+SR512321,Repairs,0.949
+SR512322,Returns & Replacement,0.958
+SR512323,Returns & Replacement,0.946
+SR512324,Installations,0.999
+SR512325,Product Advice,0.989
+SR512326,Returns & Replacement,0.991
+SR512327,Product Advice,0.983
+SR512328,Warranty Claims,0.941
+SR512329,Installations,0.925
+SR512330,Repairs,0.998
+SR512331,Billing,0.976
+SR512332,Returns & Replacement,0.993
+SR512333,Warranty Claims,0.407
+SR512334,Installations,0.991
+SR512335,Returns & Replacement,0.987
+SR512336,Returns & Replacement,0.967
+SR512337,Installations,0.985
+SR512338,Installations,0.941
+SR512339,Consumables,0.969
+SR512340,Billing,0.993
+SR512341,Repairs,0.981
+SR512342,Returns & Replacement,0.497
+SR512343,Repairs,0.28
+SR512344,Repairs,0.627
+SR512345,Repairs,0.863
+SR512346,Consumables,0.988
+SR512347,Returns & Replacement,0.996
+SR512348,Warranty Claims,0.741
+SR512349,Repairs,0.39
+SR512350,Installations,0.932
+SR512351,Warranty Claims,0.31
+SR512352,Repairs,0.545
+SR512353,Returns & Replacement,0.967
+SR512354,Repairs,0.995
+SR512355,Returns & Replacement,0.723
+SR512356,Warranty Claims,0.996
+SR512357,Billing,0.99
+SR512358,Warranty Claims,0.971
+SR512359,Warranty Claims,0.985
+SR512360,Installations,0.979
+SR512361,Repairs,0.297
+SR512362,Warranty Claims,0.98
+SR512363,Returns & Replacement,0.97
+SR512364,Returns & Replacement,0.99
+SR512365,Repairs,0.955
+SR512366,Repairs,0.961
+SR512367,Repairs,0.987
+SR512368,Repairs,0.536
+SR512369,Warranty Claims,0.913
+SR512370,Returns & Replacement,0.311
+SR512371,Consumables,0.98
+SR512372,Repairs,0.999
+SR512373,Consumables,0.989
+SR512374,Repairs,0.989
+SR512375,Consumables,0.981
+SR512376,Repairs,0.613
+SR512377,Installations,0.985
+SR512378,Installations,0.991
+SR512379,Consumables,0.872
+SR512380,Installations,0.997
+SR512381,Returns & Replacement,0.995
+SR512382,Returns & Replacement,0.44
+SR512383,Product Advice,0.979
+SR512384,Repairs,0.999
+SR512385,Installations,0.843
+SR512386,Billing,0.997
+SR512387,Warranty Claims,0.999
+SR512388,Consumables,0.62
+SR512389,Returns & Replacement,0.991
+SR512390,Product Advice,0.979
+SR512391,Repairs,0.377
+SR512392,Warranty Claims,0.971
+SR512393,Product Advice,0.999
+SR512394,Consumables,0.991
+SR512395,Repairs,1.0
+SR512396,Billing,0.996
+SR512397,Returns & Replacement,0.974
+SR512398,Repairs,0.352
+SR512399,Billing,0.992
+SR512400,Repairs,0.48
+SR512401,Warranty Claims,0.99
+SR512402,Returns & Replacement,0.964
+SR512403,Product Advice,0.983
+SR512404,Consumables,0.538
+SR512405,Warranty Claims,0.421
+SR512406,Repairs,0.86
+SR512407,Billing,0.995
+SR512408,Repairs,0.565
+SR512409,Repairs,0.995
+SR512410,Warranty Claims,0.984
+SR512411,Installations,0.967
+SR512412,Returns & Replacement,0.998
+SR512413,Repairs,0.964
+SR512414,Warranty Claims,0.998
+SR512415,Repairs,0.392
+SR512416,Repairs,0.996
+SR512417,Repairs,1.0
+SR512418,Returns & Replacement,0.963
+SR512419,Returns & Replacement,0.993
+SR512420,Installations,0.904
+SR512421,Warranty Claims,0.406
+SR512422,Repairs,0.979
+SR512423,Repairs,0.997
+SR512424,Repairs,0.987
+SR512425,Product Advice,0.996
+SR512426,Repairs,0.998
+SR512427,Warranty Claims,0.982
+SR512428,Consumables,0.932
+SR512429,Installations,0.588
+SR512430,Installations,0.999
+SR512431,Warranty Claims,0.995
+SR512432,Product Advice,0.998
+SR512433,Returns & Replacement,0.978
+SR512434,Warranty Claims,0.926
+SR512435,Warranty Claims,0.972
+SR512436,Warranty Claims,0.987
+SR512437,Warranty Claims,0.904
+SR512438,Warranty Claims,0.447
+SR512439,Consumables,0.948
+SR512440,Consumables,0.989
+SR512441,Repairs,0.997
+SR512442,Billing,0.998
+SR512443,Returns & Replacement,0.986
+SR512444,Installations,0.983
+SR512445,Repairs,0.998
+SR512446,Consumables,0.85
+SR512447,Billing,0.981
+SR512448,Warranty Claims,0.987
+SR512449,Returns & Replacement,0.668
+SR512450,Repairs,0.999
+SR512451,Warranty Claims,0.976
+SR512452,Product Advice,0.999
+SR512453,Product Advice,0.991
+SR512454,Product Advice,0.614
+SR512455,Installations,0.989
+SR512456,Warranty Claims,0.975
+SR512457,Product Advice,0.95
+SR512458,Repairs,0.539
+SR512459,Returns & Replacement,0.993
+SR512460,Product Advice,0.982
+SR512461,Returns & Replacement,0.969
+SR512462,Billing,0.98
+SR512463,Repairs,0.747
+SR512464,Billing,0.301
+SR512465,Warranty Claims,0.986
+SR512466,Warranty Claims,0.996
+SR512467,Product Advice,0.64
+SR512468,Repairs,0.994
+SR512469,Product Advice,0.98
+SR512470,Returns & Replacement,0.987
+SR512471,Warranty Claims,0.523
+SR512472,Billing,0.898
+SR512473,Warranty Claims,0.993
+SR512474,Consumables,0.977
+SR512475,Returns & Replacement,0.516
+SR512476,Installations,0.983
+SR512477,Billing,0.993
+SR512478,Consumables,0.98
+SR512479,Repairs,0.679
+SR512480,Installations,0.961
+SR512481,Repairs,0.982
+SR512482,Repairs,0.977
+SR512483,Product Advice,0.983
+SR512484,Returns & Replacement,0.995
+SR512485,Installations,0.305
+SR512486,Repairs,0.997
+SR512487,Installations,0.995
+SR512488,Returns & Replacement,0.996
+SR512489,Product Advice,0.997
+SR512490,Product Advice,0.992
+SR512491,Warranty Claims,0.96
+SR512492,Installations,0.999
+SR512493,Repairs,0.998
+SR512494,Returns & Replacement,0.535
+SR512495,Installations,0.957
+SR512496,Repairs,1.0
+SR512497,Billing,0.991
+SR512498,Returns & Replacement,0.977
+SR512499,Billing,0.98
+SR512500,Warranty Claims,0.618
+SR512501,Installations,0.989
+SR512502,Installations,0.999
+SR512503,Repairs,0.614
+SR512504,Product Advice,0.988
+SR512505,Billing,0.997
+SR512506,Repairs,1.0
+SR512507,Repairs,0.991
+SR512508,Repairs,0.952
+SR512509,Repairs,0.997
+SR512510,Installations,0.352
+SR512511,Warranty Claims,0.986
+SR512512,Installations,0.945
+SR512513,Repairs,0.998
+SR512514,Repairs,0.997
+SR512515,Installations,0.986
+SR512516,Repairs,0.992
+SR512517,Product Advice,0.879
+SR512518,Repairs,0.998
+SR512519,Consumables,0.973
+SR512520,Consumables,0.452
+SR512521,Consumables,0.996
+SR512522,Installations,0.642
+SR512523,Consumables,0.986
+SR512524,Installations,0.961
+SR512525,Repairs,0.996
+SR512526,Product Advice,0.938
+SR512527,Installations,0.995
+SR512528,Product Advice,0.937
+SR512529,Returns & Replacement,0.673
+SR512530,Product Advice,0.305
+SR512531,Returns & Replacement,0.992
+SR512532,Repairs,0.97
+SR512533,Repairs,0.84
+SR512534,Consumables,0.998
+SR512535,Consumables,0.889
+SR512536,Repairs,0.992
+SR512537,Repairs,0.968
+SR512538,Returns & Replacement,0.989
+SR512539,Repairs,0.999
+SR512540,Consumables,0.933
+SR512541,Installations,0.991
+SR512542,Warranty Claims,0.994
+SR512543,Installations,0.984
+SR512544,Repairs,0.429
+SR512545,Warranty Claims,0.817
+SR512546,Repairs,0.996
+SR512547,Installations,0.881
+SR512548,Warranty Claims,0.272
+SR512549,Repairs,0.996
+SR512550,Returns & Replacement,0.98
+SR512551,Product Advice,0.973
+SR512552,Warranty Claims,1.0
+SR512553,Repairs,0.26
+SR512554,Warranty Claims,0.32
+SR512555,Consumables,0.993
+SR512556,Consumables,0.982
+SR512557,Consumables,0.98
+SR512558,Consumables,0.987
+SR512559,Returns & Replacement,0.98
+SR512560,Repairs,0.979
+SR512561,Product Advice,0.985
+SR512562,Returns & Replacement,0.978
+SR512563,Returns & Replacement,0.473
+SR512564,Warranty Claims,0.997
+SR512565,Repairs,0.981
+SR512566,Product Advice,0.976
+SR512567,Repairs,0.989
+SR512568,Returns & Replacement,0.896
+SR512569,Returns & Replacement,0.986
+SR512570,Returns & Replacement,0.939
+SR512571,Product Advice,0.275
+SR512572,Repairs,0.605
+SR512573,Returns & Replacement,0.225
+SR512574,Billing,0.49
+SR512575,Product Advice,0.367
+SR512576,Repairs,0.753
+SR512577,Consumables,0.983
+SR512578,Warranty Claims,0.949
+SR512579,Warranty Claims,0.992
+SR512580,Repairs,0.999
+SR512581,Installations,0.964
+SR512582,Repairs,0.995
+SR512583,Warranty Claims,0.994
+SR512584,Product Advice,0.995
+SR512585,Warranty Claims,0.975
+SR512586,Returns & Replacement,0.977
+SR512587,Repairs,0.341
+SR512588,Product Advice,0.961
+SR512589,Warranty Claims,0.338
+SR512590,Warranty Claims,0.994
+SR512591,Product Advice,0.999
+SR512592,Installations,0.998
+SR512593,Returns & Replacement,0.961
+SR512594,Billing,0.989
+SR512595,Billing,0.996
+SR512596,Billing,0.99
+SR512597,Repairs,0.302
+SR512598,Returns & Replacement,0.962
+SR512599,Product Advice,0.857
+SR512600,Consumables,0.997
+SR512601,Warranty Claims,0.988
+SR512602,Warranty Claims,0.995
+SR512603,Product Advice,0.937
+SR512604,Returns & Replacement,0.921
+SR512605,Installations,0.378
+SR512606,Warranty Claims,0.938
+SR512607,Repairs,0.912
+SR512608,Installations,0.507
+SR512609,Product Advice,0.992
+SR512610,Consumables,0.984
+SR512611,Product Advice,0.964
+SR512612,Repairs,0.998
+SR512613,Consumables,0.999
+SR512614,Returns & Replacement,0.985
+SR512615,Consumables,0.952
+SR512616,Warranty Claims,0.59
+SR512617,Product Advice,0.95
+SR512618,Warranty Claims,0.967
+SR512619,Returns & Replacement,0.996
+SR512620,Product Advice,0.985
+SR512621,Returns & Replacement,0.978
+SR512622,Warranty Claims,0.289
+SR512623,Consumables,0.984
+SR512624,Product Advice,0.997
+SR512625,Consumables,0.973
+SR512626,Returns & Replacement,0.926
+SR512627,Repairs,0.998
+SR512628,Repairs,0.976
+SR512629,Installations,0.995
+SR512630,Repairs,0.997
+SR512631,Repairs,0.986
+SR512632,Product Advice,0.981
+SR512633,Repairs,0.994
+SR512634,Returns & Replacement,0.99
+SR512635,Consumables,0.976
+SR512636,Consumables,0.984
+SR512637,Returns & Replacement,0.987
+SR512638,Repairs,1.0
+SR512639,Consumables,0.968
+SR512640,Installations,0.996
+SR512641,Warranty Claims,0.276
+SR512642,Repairs,0.998
+SR512643,Product Advice,0.991
+SR512644,Installations,0.261
+SR512645,Billing,0.995
+SR512646,Warranty Claims,0.991
+SR512647,Billing,0.983
+SR512648,Installations,0.405
+SR512649,Consumables,0.993
+SR512650,Repairs,0.982
+SR512651,Repairs,0.676
+SR512652,Warranty Claims,0.993
+SR512653,Repairs,0.825
+SR512654,Warranty Claims,0.949
+SR512655,Consumables,0.963
+SR512656,Consumables,0.962
+SR512657,Installations,0.993
+SR512658,Warranty Claims,0.348
+SR512659,Installations,0.944
+SR512660,Billing,0.415
+SR512661,Billing,0.988
+SR512662,Consumables,0.966
+SR512663,Returns & Replacement,0.995
+SR512664,Billing,0.999
+SR512665,Repairs,0.999
+SR512666,Returns & Replacement,0.863
+SR512667,Installations,0.703
+SR512668,Billing,0.965
+SR512669,Product Advice,0.967
+SR512670,Consumables,0.918
+SR512671,Repairs,0.968
+SR512672,Warranty Claims,0.998
+SR512673,Warranty Claims,0.539
+SR512674,Repairs,1.0
+SR512675,Consumables,0.947
+SR512676,Billing,0.347
+SR512677,Repairs,0.618
+SR512678,Returns & Replacement,0.984
+SR512679,Installations,0.998
+SR512680,Billing,0.995
+SR512681,Repairs,0.999
+SR512682,Installations,0.994
+SR512683,Installations,0.43
+SR512684,Billing,0.933
+SR512685,Installations,0.988
+SR512686,Installations,0.995
+SR512687,Product Advice,0.981
+SR512688,Consumables,0.984
+SR512689,Product Advice,0.976
+SR512690,Consumables,0.979
+SR512691,Returns & Replacement,0.994
+SR512692,Product Advice,0.961
+SR512693,Product Advice,0.669
+SR512694,Warranty Claims,0.985
+SR512695,Repairs,0.912
+SR512696,Returns & Replacement,0.954
+SR512697,Repairs,0.998
+SR512698,Installations,0.977
+SR512699,Product Advice,0.995
+SR512700,Billing,0.994
+SR512701,Repairs,0.992
+SR512702,Returns & Replacement,0.988
+SR512703,Installations,0.981
+SR512704,Repairs,0.977
+SR512705,Returns & Replacement,0.97
+SR512706,Returns & Replacement,0.973
+SR512707,Billing,0.997
+SR512708,Returns & Replacement,0.665
+SR512709,Installations,0.993
+SR512710,Returns & Replacement,0.463
+SR512711,Billing,0.98
+SR512712,Billing,0.846
+SR512713,Product Advice,0.336
+SR512714,Billing,0.631
+SR512715,Warranty Claims,0.99
+SR512716,Installations,0.972
+SR512717,Installations,0.996
+SR512718,Product Advice,0.987
+SR512719,Warranty Claims,0.994
+SR512720,Billing,0.992
+SR512721,Returns & Replacement,0.964
+SR512722,Consumables,0.992
+SR512723,Warranty Claims,0.996
+SR512724,Repairs,0.997
+SR512725,Repairs,0.998
+SR512726,Installations,0.94
+SR512727,Product Advice,0.355
+SR512728,Warranty Claims,0.989
+SR512729,Installations,0.959
+SR512730,Warranty Claims,0.971
+SR512731,Returns & Replacement,0.998
+SR512732,Repairs,0.688
+SR512733,Repairs,0.375
+SR512734,Repairs,0.955
+SR512735,Repairs,0.999
+SR512736,Installations,0.971
+SR512737,Returns & Replacement,0.992
+SR512738,Product Advice,0.997
+SR512739,Consumables,0.932
+SR512740,Product Advice,0.997
+SR512741,Repairs,0.949
+SR512742,Billing,0.548
+SR512743,Consumables,0.948
+SR512744,Repairs,0.994
+SR512745,Product Advice,0.959
+SR512746,Billing,0.989
+SR512747,Warranty Claims,0.986
+SR512748,Consumables,0.969
+SR512749,Warranty Claims,0.871
+SR512750,Consumables,0.33
+SR512751,Product Advice,0.938
+SR512752,Product Advice,0.288
+SR512753,Product Advice,0.993
+SR512754,Repairs,0.944
+SR512755,Repairs,0.997
+SR512756,Returns & Replacement,0.324
+SR512757,Returns & Replacement,0.229
+SR512758,Repairs,0.998
+SR512759,Installations,0.963
+SR512760,Installations,0.452
+SR512761,Repairs,0.982
+SR512762,Repairs,0.72
+SR512763,Installations,0.993
+SR512764,Consumables,0.587
+SR512765,Warranty Claims,0.985
+SR512766,Warranty Claims,0.949
+SR512767,Returns & Replacement,0.997
+SR512768,Repairs,0.99
+SR512769,Repairs,0.998
+SR512770,Repairs,0.997
+SR512771,Repairs,0.852
+SR512772,Repairs,0.975
+SR512773,Billing,0.992
+SR512774,Returns & Replacement,0.978
+SR512775,Product Advice,0.975
+SR512776,Repairs,0.562
+SR512777,Product Advice,0.996
+SR512778,Installations,0.977
+SR512779,Installations,0.999
+SR512780,Returns & Replacement,0.997
+SR512781,Product Advice,0.998
+SR512782,Installations,0.995
+SR512783,Installations,0.976
+SR512784,Billing,0.974
+SR512785,Returns & Replacement,0.99
+SR512786,Product Advice,0.29
+SR512787,Returns & Replacement,0.611
+SR512788,Warranty Claims,0.996
+SR512789,Repairs,0.993
+SR512790,Repairs,0.992
+SR512791,Installations,0.974
+SR512792,Consumables,0.923
+SR512793,Repairs,0.951
+SR512794,Product Advice,0.439
+SR512795,Repairs,0.993
+SR512796,Consumables,0.947
+SR512797,Returns & Replacement,0.889
+SR512798,Billing,0.935
+SR512799,Product Advice,0.994
+SR512800,Installations,0.304
+SR512801,Installations,0.997
+SR512802,Repairs,0.996
+SR512803,Billing,0.994
+SR512804,Warranty Claims,0.993
+SR512805,Warranty Claims,0.927
+SR512806,Product Advice,0.968
+SR512807,Warranty Claims,0.995
+SR512808,Repairs,0.444
+SR512809,Returns & Replacement,0.976
+SR512810,Billing,0.993
+SR512811,Repairs,0.998
+SR512812,Returns & Replacement,0.987
+SR512813,Consumables,0.975
+SR512814,Warranty Claims,0.993
+SR512815,Consumables,0.982
+SR512816,Consumables,0.795
+SR512817,Installations,0.702
+SR512818,Warranty Claims,0.319
+SR512819,Repairs,0.994
+SR512820,Consumables,0.782
+SR512821,Repairs,0.995
+SR512822,Warranty Claims,0.98
+SR512823,Returns & Replacement,0.991
+SR512824,Repairs,0.992
+SR512825,Repairs,0.996
+SR512826,Warranty Claims,0.966
+SR512827,Warranty Claims,0.996
+SR512828,Repairs,0.942
+SR512829,Product Advice,0.414
+SR512830,Repairs,0.817
+SR512831,Billing,0.985
+SR512832,Installations,0.978
+SR512833,Consumables,0.984
+SR512834,Returns & Replacement,0.997
+SR512835,Billing,0.982
+SR512836,Repairs,0.617
+SR512837,Product Advice,0.978
+SR512838,Consumables,0.92
+SR512839,Warranty Claims,0.987
+SR512840,Warranty Claims,0.985
+SR512841,Repairs,0.999
+SR512842,Repairs,0.975
+SR512843,Warranty Claims,0.977
+SR512844,Warranty Claims,0.99
+SR512845,Installations,0.997
+SR512846,Repairs,0.876
+SR512847,Billing,0.997
+SR512848,Billing,0.95
+SR512849,Warranty Claims,0.982
+SR512850,Returns & Replacement,0.918
+SR512851,Installations,0.958
+SR512852,Returns & Replacement,0.722
+SR512853,Consumables,0.998
+SR512854,Warranty Claims,0.964
+SR512855,Product Advice,0.98
+SR512856,Repairs,0.68
+SR512857,Product Advice,0.992
+SR512858,Product Advice,0.83
+SR512859,Repairs,0.93
+SR512860,Repairs,0.401
+SR512861,Repairs,0.991
+SR512862,Repairs,0.999
+SR512863,Repairs,0.96
+SR512864,Repairs,0.982
+SR512865,Returns & Replacement,0.518
+SR512866,Billing,0.993
+SR512867,Warranty Claims,0.417
+SR512868,Billing,0.246
+SR512869,Repairs,0.998
+SR512870,Returns & Replacement,0.969
+SR512871,Installations,0.955
+SR512872,Product Advice,0.958
+SR512873,Returns & Replacement,0.983
+SR512874,Installations,0.998
+SR512875,Installations,0.99
+SR512876,Billing,0.562
+SR512877,Billing,0.978
+SR512878,Returns & Replacement,0.975
+SR512879,Billing,0.993
+SR512880,Returns & Replacement,0.309
+SR512881,Repairs,0.994
+SR512882,Consumables,0.283
+SR512883,Repairs,0.475
+SR512884,Repairs,0.991
+SR512885,Repairs,0.999
+SR512886,Warranty Claims,0.987
+SR512887,Consumables,0.995
+SR512888,Consumables,0.996
+SR512889,Product Advice,0.912
+SR512890,Returns & Replacement,0.993
+SR512891,Installations,0.997
+SR512892,Returns & Replacement,0.249
+SR512893,Billing,0.996
+SR512894,Product Advice,0.342
+SR512895,Warranty Claims,0.985
+SR512896,Repairs,0.998
+SR512897,Consumables,0.966
+SR512898,Warranty Claims,0.981
+SR512899,Repairs,0.998
+SR512900,Installations,0.997
+SR512901,Returns & Replacement,0.996
+SR512902,Billing,0.714
+SR512903,Warranty Claims,0.416
+SR512904,Installations,0.956
+SR512905,Billing,0.964
+SR512906,Product Advice,0.835
+SR512907,Warranty Claims,0.342
+SR512908,Repairs,0.996
+SR512909,Product Advice,0.341
+SR512910,Billing,0.964
+SR512911,Repairs,0.999
+SR512912,Consumables,0.995
+SR512913,Installations,0.987
+SR512914,Billing,0.997
+SR512915,Repairs,0.996
+SR512916,Product Advice,0.309
+SR512917,Billing,0.995
+SR512918,Returns & Replacement,0.275
+SR512919,Repairs,0.285
+SR512920,Billing,0.996
+SR512921,Consumables,0.981
+SR512922,Repairs,0.996
+SR512923,Product Advice,0.99
+SR512924,Installations,0.974
+SR512925,Installations,0.993
+SR512926,Repairs,0.994
+SR512927,Product Advice,0.965
+SR512928,Returns & Replacement,0.996
+SR512929,Repairs,0.999
+SR512930,Product Advice,0.985
+SR512931,Consumables,0.824
+SR512932,Billing,0.867
+SR512933,Returns & Replacement,0.997
+SR512934,Returns & Replacement,0.964
+SR512935,Product Advice,0.999
+SR512936,Product Advice,0.999
+SR512937,Installations,0.428
+SR512938,Warranty Claims,0.291
+SR512939,Warranty Claims,0.977
+SR512940,Consumables,0.91
+SR512941,Repairs,0.962
+SR512942,Repairs,0.395
+SR512943,Product Advice,0.999
+SR512944,Installations,0.98
+SR512945,Repairs,0.998
+SR512946,Warranty Claims,0.367
+SR512947,Product Advice,0.929
+SR512948,Repairs,0.995
+SR512949,Product Advice,0.626
+SR512950,Product Advice,0.985
+SR512951,Installations,0.99
+SR512952,Returns & Replacement,0.956
+SR512953,Repairs,0.241
+SR512954,Billing,0.978
+SR512955,Repairs,0.998
+SR512956,Product Advice,0.992
+SR512957,Billing,0.333
+SR512958,Warranty Claims,0.966
+SR512959,Returns & Replacement,0.96
+SR512960,Returns & Replacement,0.976
+SR512961,Installations,0.992
+SR512962,Billing,0.993
+SR512963,Repairs,0.424
+SR512964,Repairs,0.998
+SR512965,Repairs,0.916
+SR512966,Installations,0.981
+SR512967,Installations,0.993
+SR512968,Product Advice,0.953
+SR512969,Repairs,0.999
+SR512970,Installations,0.997
+SR512971,Product Advice,0.988
+SR512972,Repairs,0.751
+SR512973,Repairs,0.99
+SR512974,Installations,0.98
+SR512975,Installations,0.921
+SR512976,Returns & Replacement,0.872
+SR512977,Returns & Replacement,0.941
+SR512978,Warranty Claims,0.821
+SR512979,Billing,0.542
+SR512980,Repairs,0.989
+SR512981,Installations,0.961
+SR512982,Returns & Replacement,0.994
+SR512983,Installations,0.995
+SR512984,Product Advice,0.319
+SR512985,Consumables,0.996
+SR512986,Billing,0.97
+SR512987,Billing,0.994
+SR512988,Consumables,0.987
+SR512989,Consumables,0.981
+SR512990,Billing,0.969
+SR512991,Repairs,0.724
+SR512992,Warranty Claims,0.954
+SR512993,Warranty Claims,0.998
+SR512994,Installations,0.991
+SR512995,Returns & Replacement,0.988
+SR512996,Installations,0.324
+SR512997,Billing,0.64
+SR512998,Repairs,0.977
+SR512999,Returns & Replacement,0.993
